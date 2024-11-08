@@ -5,7 +5,9 @@ padLeft(){}
 // 这是login分支添加的方法
 rsa(){}
 // 加个远程方法发送到github
-remote(){}
+remote(){
+  console.log('update from github')
+}
 // 测试方法1
 test1(){}
 // 测试方法2
