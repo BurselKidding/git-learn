@@ -6,3 +6,5 @@ padLeft(){}
 rsa(){}
 // 加个远程方法发送到github
 remote(){}
+// 测试方法
+test1(){}
