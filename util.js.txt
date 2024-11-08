@@ -2,3 +2,5 @@
 
 // fix bug: 添加padLeft()方法
 padLeft(){}
+// 这是login分支添加的方法
+rsa(){}
