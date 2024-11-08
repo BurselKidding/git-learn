@@ -1,1 +1,4 @@
 这是工具模块
+
+// fix bug: 添加padLeft()方法
+padLeft(){}
