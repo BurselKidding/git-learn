@@ -4,3 +4,5 @@
 padLeft(){}
 // 这是login分支添加的方法
 rsa(){}
+// 加个远程方法发送到github
+remote(){}
